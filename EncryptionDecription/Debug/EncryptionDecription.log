@@ -1,0 +1,5 @@
+﻿  EncryptionDecription.cpp
+C:\Users\user\source\repos\EncryptionDecription\EncryptionDecription.cpp(9,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\EncryptionDecription\EncryptionDecription.cpp(20,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\EncryptionDecription\EncryptionDecription.cpp(34,34): warning C4018: <: несоответствие типов со знаком и без знака
+  EncryptionDecription.vcxproj -> C:\Users\user\source\repos\EncryptionDecription\Debug\EncryptionDecription.exe
