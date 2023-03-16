@@ -1,0 +1,10 @@
+﻿  Hash.cpp
+C:\Users\user\source\repos\Hash\Hash\Hash.cpp(11,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\Hash\Hash\Hash.cpp(24,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\Hash\Hash\Hash.cpp(60,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\Hash\Hash\Hash.cpp(61,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\Hash\Hash\Hash.cpp(65,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\Hash\Hash\Hash.cpp(75,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\Hash\Hash\Hash.cpp(76,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\Hash\Hash\Hash.cpp(80,35): warning C4018: <: несоответствие типов со знаком и без знака
+  Hash.vcxproj -> C:\Users\user\source\repos\Hash\Debug\Hash.exe
