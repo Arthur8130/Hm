@@ -1,0 +1,7 @@
+﻿  ShortestPaths.cpp
+C:\Users\user\source\repos\ShortestPaths\ShortestPaths\ShortestPaths.cpp(17,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ShortestPaths\ShortestPaths\ShortestPaths.cpp(25,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ShortestPaths\ShortestPaths\ShortestPaths.cpp(34,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ShortestPaths\ShortestPaths\ShortestPaths.cpp(39,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ShortestPaths\ShortestPaths\ShortestPaths.cpp(43,27): warning C4018: <: несоответствие типов со знаком и без знака
+  ShortestPaths.vcxproj -> C:\Users\user\source\repos\ShortestPaths\ShortestPaths\Debug\ShortestPaths.exe
