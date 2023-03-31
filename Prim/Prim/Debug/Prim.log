@@ -1,0 +1,6 @@
+﻿  Prim.cpp
+C:\Users\user\source\repos\Prim\Prim\Prim.cpp(30,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\Prim\Prim\Prim.cpp(41,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\Prim\Prim\Prim.cpp(46,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\Prim\Prim\Prim.cpp(49,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Prim.vcxproj -> C:\Users\user\source\repos\Prim\Prim\Debug\Prim.exe
