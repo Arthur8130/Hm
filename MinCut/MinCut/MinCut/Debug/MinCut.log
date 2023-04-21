@@ -1,0 +1,6 @@
+﻿  MinCut.cpp
+C:\Users\user\source\repos\MinCut\MinCut\MinCut.cpp(50,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\MinCut\MinCut\MinCut.cpp(53,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\MinCut\MinCut\MinCut.cpp(54,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\MinCut\MinCut\MinCut.cpp(109,23): warning C4018: <: несоответствие типов со знаком и без знака
+  MinCut.vcxproj -> C:\Users\user\source\repos\MinCut\MinCut\Debug\MinCut.exe
