@@ -1,0 +1,3 @@
+﻿  Kuhn.cpp
+C:\Users\user\source\repos\Kuhn\Kuhn\Kuhn.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Kuhn.vcxproj -> C:\Users\user\source\repos\Kuhn\Kuhn\Debug\Kuhn.exe
